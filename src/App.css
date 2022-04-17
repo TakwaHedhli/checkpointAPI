@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  color: bisque;
+}
+
+html{
+  background-color: darkslategray;
+}
